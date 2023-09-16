@@ -144,7 +144,6 @@ body .shop-section .box {
   height: 400px;
   width: 23%;
   background-color: white;
-  padding: 20px 0px 15px;
 }
 body .shop-section .box-content {
   margin-left: 1rem;
@@ -213,7 +212,7 @@ body footer .foot-panele4 .pages {
   padding-top: 25px;
 }
 body footer .foot-panele4 .copyright {
-  padding-top: 5px;
+  padding-top: 25px;
   text-align: center;
   font-size: 0.7rem;
 }
